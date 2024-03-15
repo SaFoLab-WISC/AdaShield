@@ -14,7 +14,7 @@
 ![Multimodal Large Language Models](https://img.shields.io/badge/MultimodalLargeLanguage-Models-green.svg?style=plastic)
 
 
- The official implementation of our paper "[AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting](https://arxiv.org/abs/2403.09513)", by *[Yu Wang](https://rain305f.github.io/), [Xiaogeng Liu](https://sheltonliu-n.github.io), [Yu Li](https://yu-li.github.io/), [Muhao Chen](https://muhaochen.github.io), and [Chaowei Xiao](https://xiaocw11.github.io).* 
+ The official implementation of our paper "[AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting](https://arxiv.org/abs/2403.09513)", by *[Yu Wang*](https://rain305f.github.io/), [Xiaogeng Liu*](https://sheltonliu-n.github.io), [Yu Li](https://yu-li.github.io/), [Muhao Chen](https://muhaochen.github.io), and [Chaowei Xiao](https://xiaocw11.github.io).*  (* denotes the equal contribution in this work.)
 
 
 
