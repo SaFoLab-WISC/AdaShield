@@ -8,7 +8,7 @@
 
 <h5 align="center">
 
-[![arxiv](https://img.shields.io/badge/Arxiv-2401.15652-red)](https://arxiv.org/pdf/2403.09513.pdf)
+[![arxiv](https://img.shields.io/badge/Arxiv-2403.09513-red)](https://arxiv.org/pdf/2403.09513.pdf)
 ![Jailbreak Attacks](https://img.shields.io/badge/Jailbreak-Attacks-yellow.svg?style=plastic)
 ![Defenses](https://img.shields.io/badge/MultimodalLargeLanguage-Defenses-orange.svg?style=plastic)
 ![Multimodal Large Language Models](https://img.shields.io/badge/MultimodalLargeLanguage-Models-green.svg?style=plastic)
