@@ -1,14 +1,15 @@
 
 
 <p align="center">
-    <img src="assets/AdaShield_logo.jpg" width="150"/>
+    <img src="assets/AdaShield_logo.jpg" width="300"/>
 <p>
 <h2 align="center"> <a href="https://arxiv.org/abs/2403.09513">AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting</a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2>
 
 <h5 align="center">
-[![project](https://img.shields.io/badge/Project-Page-blue))](https://rain305f.github.io/AdaShield-Project/)
+
 [![arxiv](https://img.shields.io/badge/Arxiv-2403.09513-red)](https://arxiv.org/pdf/2403.09513.pdf)
+[![project](https://img.shields.io/badge/Project-Page-blue)](https://rain305f.github.io/AdaShield-Project/)
 ![Jailbreak Attacks](https://img.shields.io/badge/Jailbreak-Attacks-yellow.svg?style=plastic)
 ![Defenses](https://img.shields.io/badge/MultimodalLargeLanguage-Defenses-orange.svg?style=plastic)
 ![Multimodal Large Language Models](https://img.shields.io/badge/MultimodalLargeLanguage-Models-green.svg?style=plastic)
