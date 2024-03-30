@@ -27,6 +27,7 @@
 
 | Date       | Event    |
 |------------|----------|
+| **2024/03/30** | 🔥 We have released our full training and inference codes.|
 | **2024/03/15** | 🔥 We have released our paper. Thanks to all collaborators. |
 
 
@@ -45,6 +46,53 @@ AdaShield consists of a defender $D$ and a target MLLM $M$, where $D$ aims to ge
     <img src="assets/example.png" width="700"/>
 
 A conversation example from AdaShield between the target MLLM $M$ and defender $D$. The objective of defender $D$ is to safeguard $M$ from harmful queries for the Sex scenario. $D$ generates the failed prompt to defend against the malicious query for the first time. Then, with the jailbreak response from $M$ and previous defense prompt as feedback, $D$ successfully optimizes defense prompts by injecting the safe rules about the sex scenario, and outputs a reason to elicit interpretability.</center>
+
+## 🚀 Main Results
+### Defense Effectiveness and Benign Evaluation
+<p align="left">
+<img src="assets/full.png" width=80%>
+</p>
+
+
+##  🛠️ Requirements and Installation
+* Python >= 3.10
+* Pytorch == 2.1.2
+* CUDA Version >= 12.1
+* Install required packages:
+```bash
+git clone https://github.com/rain305f/AdaShield
+cd AdaShield
+
+conda create -n adashield python=3.10 -y
+conda activate adashield
+
+
+pip install -r requirement.txt
+
+# install environments about llava 
+git clone https://github.com/haotian-liu/LLaVA.git
+cd LLaVA
+
+pip install --upgrade pip
+pip install -e .
+cd ..
+rm -r LLaVA
+
+```
+
+
+##  🗝️ Training & Validating
+The training & validating instruction is in [TRAIN_AND_VALIDATE.md](TRAIN_AND_VALIDATE.md).
+
+
+## 👍 Acknowledgement
+* [FigStep Attack](https://github.com/ThuCCSLab/FigStep) Effective jailbreak attack for multi-modal large language models, and great job contributing the evaluation code and dataset.
+* [MM-SafetyBench(QR Attack)](https://github.com/isXinLiu/MM-SafetyBench) Effective jailbreak attack for multi-modal large language models, and great job contributing the evaluation code and dataset.
+
+
+## 🙌 Related Projects
+* [AutoDAN](https://github.com/SheltonLiu-N/AutoDAN) Powerful jailbreak attack strategy on Aligned Large Language Models.
+* [Backdoor-Enhanced-Alignment](https://github.com/Jayfeather1024/Backdoor-Enhanced-Alignment) Effective backdoor defense method against Fine-tuning Jailbreak Attack.
 
 
 ## 📑 Citation
