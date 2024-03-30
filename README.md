@@ -92,7 +92,7 @@ The training & validating instruction is in [TRAIN_AND_VALIDATE.md](TRAIN_AND_VA
 
 ## 🙌 Related Projects
 * [AutoDAN](https://github.com/SheltonLiu-N/AutoDAN) Powerful jailbreak attack strategy on Aligned Large Language Models.
-* [Backdoor-Enhanced-Alignment](https://github.com/Jayfeather1024/Backdoor-Enhanced-Alignment) Effective backdoor defense method against Fine-tuning Jailbreak Attack.
+* [BackdoorAlign](https://jayfeather1024.github.io/Finetuning-Jailbreak-Defense/) Effective backdoor defense method against Fine-tuning Jailbreak Attack.
 
 
 ## 📑 Citation
