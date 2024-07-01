@@ -26,9 +26,9 @@
 
 | Date       | Event    |
 |------------|----------|
-| **2024/07/01** | 👍 Our paper is accepted by ECCV2024.|
-| **2024/03/30** | 🔥 We have released our full training and inference codes.|
-| **2024/03/15** | 🔥 We have released our paper. Thanks to all collaborators. |
+| **2024/07/01** | 🔥 Our paper is accepted by ECCV2024.|
+| **2024/03/30** |  We have released our full training and inference codes.|
+| **2024/03/15** |  We have released our paper. Thanks to all collaborators. |
 
 
 ## 💡 Abstract
