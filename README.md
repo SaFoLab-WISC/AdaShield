@@ -101,11 +101,9 @@ Please consider citing 📑 our papers if our repository is helpful to your work
 
 ```bibtex
 @article{wang2024adashield,
-      title={AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting}, 
-      author={Yu Wang and Xiaogeng Liu and Yu Li and Muhao Chen and Chaowei Xiao},
-      year={2024},
-      eprint={2403.09513},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR}
+  title={Adashield: Safeguarding multimodal large language models from structure-based attack via adaptive shield prompting},
+  author={Wang, Yu and Liu, Xiaogeng and Li, Yu and Chen, Muhao and Xiao, Chaowei},
+  journal={arXiv preprint arXiv:2403.09513},
+  year={2024}
 }
 ```
