@@ -100,7 +100,7 @@ The training & validating instruction is in [TRAIN_AND_VALIDATE.md](TRAIN_AND_VA
 Please consider citing 📑 our papers if our repository is helpful to your work, thanks sincerely!
 
 ```bibtex
-@misc{wang2024adashield,
+@article{wang2024adashield,
       title={AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting}, 
       author={Yu Wang and Xiaogeng Liu and Yu Li and Muhao Chen and Chaowei Xiao},
       year={2024},
